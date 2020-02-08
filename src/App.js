@@ -21,7 +21,7 @@ class App extends React.Component{
     if(this.state.loading){
       return <div>...Loading</div>
     }
-    return <div>Hello</div>
+    return <div>Hello Hakob</div>
   }
 }
 
